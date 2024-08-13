@@ -1,0 +1,21 @@
+.lista-tarefas {
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .lista-tarefas h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .lista-tarefas ol {
+    padding-left: 20px;
+  }
+  
+  .lista-tarefas li {
+    margin: 10px 0;
+    font-size: 1.2rem;
+  }

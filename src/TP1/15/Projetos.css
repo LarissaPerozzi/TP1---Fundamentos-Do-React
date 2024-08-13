@@ -1,0 +1,27 @@
+.projetos {
+    padding: 20px;
+  }
+  
+  .projetos h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .projetos ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .projetos li {
+    margin-bottom: 15px;
+  }
+  
+  .projetos h3 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  
+  .projetos p {
+    margin: 5px 0;
+    color: #555;
+  }

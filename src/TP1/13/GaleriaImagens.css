@@ -1,0 +1,28 @@
+.galeria-imagens {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .imagem-item {
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #fff;
+  }
+  
+  .imagem {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  .legenda {
+    margin: 10px 0;
+    font-size: 1rem;
+    color: #555;
+  }

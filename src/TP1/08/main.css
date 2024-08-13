@@ -1,5 +1,15 @@
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #e0f7fa;
+}
+
+.titulo {
+  font-size: 2rem;
+  color: #00796b;
+  background-color: #b2dfdb;
+  padding: 15px 25px;
+  border-radius: 10px;
 }

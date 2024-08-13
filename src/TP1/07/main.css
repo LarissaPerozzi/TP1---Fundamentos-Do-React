@@ -1,5 +1,29 @@
-* {
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #e0f7fa;
+  padding: 20px;
+}
+
+.titulo {
+  font-size: 2rem;
+  color: #00796b;
+  margin-bottom: 20px;
+}
+
+.lista-produtos {
+  list-style-type: none;
   padding: 0;
-  margin: 0;
-  box-sizing: border-box;
+}
+
+.produto {
+  font-size: 1.2rem;
+  color: #004d40;
+  background-color: #b2dfdb;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 8px;
 }

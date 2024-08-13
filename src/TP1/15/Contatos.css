@@ -1,0 +1,22 @@
+.contatos {
+    padding: 20px;
+    background-color: #f5f5f5;
+  }
+  
+  .contatos h2 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+  }
+  
+  .contatos p {
+    margin: 5px 0;
+  }
+  
+  .contatos a {
+    color: #0073e6;
+    text-decoration: none;
+  }
+  
+  .contatos a:hover {
+    text-decoration: underline;
+  }
